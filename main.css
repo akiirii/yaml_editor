@@ -1,0 +1,15 @@
+md-content md-tabs {
+  background: #f6f6f6;
+  border: 1px solid #e1e1e1;
+}
+md-content md-tabs md-tabs-wrapper {
+  background: white;
+}
+
+md-list-item {
+  background: white;
+}
+
+md-select {
+  min-width: 200px;z
+}
